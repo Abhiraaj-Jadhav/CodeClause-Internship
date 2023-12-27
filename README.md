@@ -1,1 +1,1 @@
-# CodeClause-Internship
+# CodeClause-Data Science Internship
