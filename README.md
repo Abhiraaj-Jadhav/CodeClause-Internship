@@ -11,7 +11,7 @@ Features:
     - Model Integration: Implements state-of-the-art sentiment analysis models, providing accurate predictions.
     - Scalability: Designed to handle large volumes of text data for real-world applications.
 
-# ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# -------------------------------------------------------------------------------------------------------------
 
 # 📌 Task - Fake News Detection
 Fake News Detection with Logistic Regression
